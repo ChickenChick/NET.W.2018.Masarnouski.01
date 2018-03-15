@@ -1,0 +1,7 @@
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\obj\Debug\NET.W.2018.Masarnouski.01.csprojResolveAssemblyReference.cache
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\obj\Debug\NET.W.2018.Masarnouski.01.csproj.CoreCompileInputs.cache
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\bin\Debug\NET.W.2018.Masarnouski.01.exe.config
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\bin\Debug\NET.W.2018.Masarnouski.01.exe
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\bin\Debug\NET.W.2018.Masarnouski.01.pdb
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\obj\Debug\NET.W.2018.Masarnouski.01.exe
+C:\Users\uc-pto2\source\repos\NET.W.2018.Masarnouski.01\NET.W.2018.Masarnouski.01\obj\Debug\NET.W.2018.Masarnouski.01.pdb
