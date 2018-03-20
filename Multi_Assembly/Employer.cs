@@ -9,7 +9,8 @@ namespace Enterprise
     {
         public void EmployerInfo()
         {
-            Console.WriteLine("Информация о нанимателе: ");
+            Console.WriteLine("Employer Info: ");
+           
         }
     }
 }
